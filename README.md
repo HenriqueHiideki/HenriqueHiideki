@@ -138,7 +138,7 @@ idiomas:     Português (nativo) | Inglês (intermediário) | Japonês (intermed
 
 <div align="center">
 
-Aberto para oportunidades em **DevOps**, **Segurança da Informação** e **Desenvolvimento Web**.
+Aberto para oportunidades em **DevOps**, **Segurança da Informação** e **Desenvolvimento**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Henrique_Hideki-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/henriquehideki)
 [![Email](https://img.shields.io/badge/Email-henrique.hiideki@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:henrique.hiideki@gmail.com)
