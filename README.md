@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henriquehideki)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/henrique-hiideki)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henrique.hiideki@gmail.com)
 [![ZyntekConnect](https://img.shields.io/badge/ZyntekConnect-0D0D1A?style=for-the-badge&logo=vercel&logoColor=white)](https://zyntekconnect.com.br)
 
 </div>
@@ -106,7 +105,6 @@ idiomas:     Português (nativo) | Inglês (intermediário) | Japonês (intermed
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
 
 ### Redes
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-0078D7?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Firewall](https://img.shields.io/badge/Firewall/VPN-FF6600?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -141,7 +139,6 @@ idiomas:     Português (nativo) | Inglês (intermediário) | Japonês (intermed
 Aberto para oportunidades em **DevOps**, **Segurança da Informação** e **Desenvolvimento**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Henrique_Hideki-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/henriquehideki)
-[![Email](https://img.shields.io/badge/Email-henrique.hiideki@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:henrique.hiideki@gmail.com)
 [![ZyntekConnect](https://img.shields.io/badge/ZyntekConnect-zyntekconnect.com.br-0D0D1A?style=for-the-badge&logo=vercel)](https://zyntekconnect.com.br)
 
 ---
