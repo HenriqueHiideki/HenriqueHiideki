@@ -134,20 +134,6 @@ idiomas:     Português (nativo) | Inglês (intermediário) | Japonês (intermed
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Henrique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=henrique-hiideki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-hiideki&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=henrique-hiideki&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📬 Contato
 
 <div align="center">
