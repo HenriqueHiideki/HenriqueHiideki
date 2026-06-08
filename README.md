@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Henrique Hideki Tanno
 
-### Analista de Infraestrutura & DevOps | Segurança da Informação | Engenheiro de Software
+### Software Developer | DevOps | Seguranca da Informacao
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henriquehideki)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/henrique-hiideki)
