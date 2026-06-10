@@ -87,29 +87,6 @@ idiomas:     Português (nativo) | Inglês (intermediário) | Japonês (intermed
 
 </div>
 
----
-
-## 🛡️ Segurança da Informação
-
-<div align="center">
-
-### Ofensiva
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-
-### Habilidades
-![Pentesting](https://img.shields.io/badge/Pentesting-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-1A1A2E?style=for-the-badge&logo=tor-project&logoColor=white)
-![Defesa](https://img.shields.io/badge/Defesa_Cibernética-00897B?style=for-the-badge&logo=shield&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
-
-### Redes
-![TCP/IP](https://img.shields.io/badge/TCP/IP-0078D7?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Firewall](https://img.shields.io/badge/Firewall/VPN-FF6600?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
-</div>
 
 ---
 
