@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Henrique Hideki Tanno
 
-### Software Developer | DevOps | Seguranca da Informacao
+### Software Developer | DevOps | Cloud
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henriquehideki)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/henrique-hiideki)
@@ -17,7 +17,7 @@
 ```yaml
 nome:        Henrique Hideki Tanno
 localização: Maringá, PR
-foco:        DevOps | Segurança da Informação | Engenharia de Software
+foco:        Software Developer | DevOps | Cloud
 idiomas:     Português (nativo) | Inglês (intermediário) | Japonês (intermediário)
 ```
 
@@ -28,7 +28,6 @@ idiomas:     Português (nativo) | Inglês (intermediário) | Japonês (intermed
 <div align="center">
 
 ### Linguagens
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -72,12 +71,7 @@ idiomas:     Português (nativo) | Inglês (intermediário) | Japonês (intermed
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-### Monitoramento
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
 ### Sistemas Operacionais
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -113,7 +107,7 @@ idiomas:     Português (nativo) | Inglês (intermediário) | Japonês (intermed
 
 <div align="center">
 
-Aberto para oportunidades em **DevOps**, **Segurança da Informação** e **Desenvolvimento**.
+Aberto para oportunidades em **Desenvolvimento de Software**, **DevOps** e **Cloud**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Henrique_Hideki-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/henriquehideki)
 [![ZyntekConnect](https://img.shields.io/badge/ZyntekConnect-zyntekconnect.com.br-0D0D1A?style=for-the-badge&logo=vercel)](https://zyntekconnect.com.br)
