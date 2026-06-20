@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Olá, eu sou Henrique Hideki Tanno
-Sou apaixonado por tecnologia e estou em uma jornada constante de evolução como desenvolvedor de software, com foco crescente em DevOps. Acredito que a combinação entre desenvolvimento de software e infraestrutura é o caminho para construir soluções mais robustas, escaláveis e eficientes — e é exatamente isso que venho me dedicando a aprender e aplicar no meu dia a dia.
+> Sou apaixonado por tecnologia e estou em uma jornada constante de evolução como desenvolvedor de software, com foco crescente em DevOps. Acredito que a combinação entre desenvolvimento de software e infraestrutura é o caminho para construir soluções mais robustas, escaláveis e eficientes — e é exatamente isso que venho me dedicando a aprender e aplicar no meu dia a dia.
 Minha trajetória começou no suporte técnico, onde desenvolvi uma base sólida em resolução de problemas, lógica e atendimento ao cliente. Mas decidi ir além: em 2026, assumi o compromisso de mudar de cidade e me dedicar integralmente a aprofundar meus conhecimentos técnicos, sair da zona de conforto e construir uma carreira com mais possibilidades de crescimento.
 Hoje, estudo tecnologias como Docker, AWS, Node.js, React, Angular, Python, TypeScript, GitHub Actions e Terraform, sempre buscando unir boas práticas de desenvolvimento com automação e infraestrutura como código. Também estou investindo continuamente em inglês técnico, peça fundamental para atuar com tecnologia em um cenário global.
 Gosto de pensar em projetos como verdadeiros laboratórios: simular cenários reais, testar, errar, ajustar e aprender — esse é o processo que mais me ensina e que tento documentar e compartilhar aqui no GitHub.
@@ -85,6 +85,7 @@ idiomas:     Português (nativo) | Inglês (intermediário) | Japonês (intermed
 
 ## 🏢 ZyntekConnect
 
+> Socio da ZyntekConnect.
 > Startup de tecnologia focada em soluções web para profissionais autônomos e PMEs.
 
 **Produtos em desenvolvimento:**
