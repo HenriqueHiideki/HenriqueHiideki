@@ -10,7 +10,9 @@ Gosto de pensar em projetos como verdadeiros laboratórios: simular cenários re
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henriquehideki)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/henrique-hiideki)
+[![Portifólio Vercel]https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white][(https://zyntekconnect.com.br](https://portifolio-henrique-hideki.vercel.app/))
 [![ZyntekConnect](https://img.shields.io/badge/ZyntekConnect-0D0D1A?style=for-the-badge&logo=vercel&logoColor=white)](https://zyntekconnect.com.br)
+
 
 </div>
 
