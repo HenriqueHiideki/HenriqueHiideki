@@ -73,9 +73,6 @@ idiomas:     Português (nativo) | Inglês (intermediário) | Japonês (intermed
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### Virtualização
-![ProxMox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-
 </div>
 
 
