@@ -78,21 +78,13 @@ idiomas:     Português (nativo) | Inglês (intermediário) | Japonês (intermed
 
 ---
 
-## 🏢 ZyntekConnect
+## 🧩 ZyntekConnect
 
-> Socio da ZyntekConnect.
-> Startup de tecnologia focada em soluções web para profissionais autônomos e PMEs.
+> Cofundador da ZyntekConnect.
 
-**Produtos em desenvolvimento:**
+Startup de tecnologia focada em soluções web, criada junto com outros dois sócios com o propósito de transformar conhecimento técnico em produtos reais — e, no caminho, ganhar experiência genuína de desenvolvimento e trabalho em equipe.
 
-| Produto | Descrição | Status |
-|---|---|---|
-| 🌐 Landing Pages | Sites profissionais para negócios locais | 🔄 Em desenvolvimento |
-| 🗓️ Agendamento Online | Sistema para profissionais autônomos | 📅 Planejado |
-| 💈 Sistema Barbearia | Gestão completa + painel administrativo | 📅 Planejado |
-| 🍽️ Sistema Restaurante | Comandas + dashboards em tempo real | 📅 Planejado |
-| 🤖 Chatbot WhatsApp | Automação inteligente de atendimento | 📅 Planejado |
-| 🛒 E-Commerce | Lojas virtuais personalizadas | 📅 Planejado |
+Desenvolvemos aplicações que resolvem problemas do dia a dia de empresas e profissionais, unindo curiosidade técnica com busca constante por aprendizado.
 
 🔗 **[zyntekconnect.com.br](https://zyntekconnect.com.br)**
 
